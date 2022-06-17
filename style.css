@@ -1,0 +1,55 @@
+@media screen and (max-width: 600px) {
+    .btn_cari {
+        margin-top: 20px;
+    }
+}
+
+body {
+    background-color: #3b3a3a !important;
+    font-family: 'Nunito';
+}
+
+.ramalan {
+    padding-top: 100px;
+    background-color: #3b3a3a;
+    color: #fff;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+.input_kota {
+    font-size: 24px;
+    padding: 10px;
+    border: 2px solid #fff;
+    border-radius: 3px;
+}
+
+.btn_cari {
+    width: 150px;
+    background-color: #45ce0f;
+    color: white;
+    font-size: 24px;
+    border: 1px solid #fff;
+    padding: 10px;
+    font-family: 'Nunito';
+    border-radius: 3px;
+}
+
+.btn_cari:hover {
+    background-color: #fff;
+    color: #45ce0f;
+    border: 1px solid #45ce0f;
+    cursor: pointer;
+}
+
+#city {
+    font-size: 32px;
+    padding: 10px;
+}
+
+.hasil {
+    font-size: 20px;
+}
